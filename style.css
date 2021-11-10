@@ -9,14 +9,14 @@ body{
     height: 100vh;
     width: 100%;       
     position: absolute;
-    background-image: url(img/sky.jpg);
+    background-image: url(https://jaimin78.github.io/Desert-War-Animation/img/sky.jpg);
     background-size: contain;
     background-repeat: round;
 }
 .carpet {
     height: 130px;
     width: 220px;
-    background-image: url(img/carpet2.png);
+    background-image: url(https://jaimin78.github.io/Desert-War-Animation/img/carpet2.png);
     background-size: cover;
     position: absolute;
     left: 5%;
@@ -41,7 +41,7 @@ body{
 .camel {
     height: 200px;
     width: 207px;
-    background-image: url(img/camel.gif);
+    background-image: url(https://jaimin78.github.io/Desert-War-Animation/img/camel.gif);
     background-size: cover;
     position: absolute;
     left: 65%;
@@ -51,7 +51,7 @@ body{
 .desert{
     height: 100vh;
     width: 100%;
-    background-image: url(img/desert.png);
+    background-image: url(https://jaimin78.github.io/Desert-War-Animation/img/desert.png);
     background-size: cover;
     position: absolute;
     bottom: 60px;
@@ -59,7 +59,7 @@ body{
 .track{
     height: 10vh;
     width: 800vw;
-    background-image: url(img/track.png);
+    background-image: url(https://jaimin78.github.io/Desert-War-Animation/img/track.png);
     background-repeat: repeat-x;
     position: absolute;
     top: 90%;
@@ -68,7 +68,7 @@ body{
 .car {
     height: 90px;
     width: 350px;
-    background-image: url(img/car_body.png);
+    background-image: url(https://jaimin78.github.io/Desert-War-Animation/img/car_body.png);
     background-size: cover;
     position: absolute;
     left: 10%;
